@@ -1,5 +1,5 @@
 
-# Kebapp : Actual name of the App to be revealed, stay tuned !
+# UrbanSpots App
 
 An application to share the places, things, monuments that are not common, singular and ... maybe : beautiful !
 
